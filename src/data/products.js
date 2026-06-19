@@ -172,8 +172,8 @@ export const paymentMethods = [
   { 
     id: 'va-bri', 
     name: 'VA BRI', 
-icon: 'https://i.ibb.co.co/v3XgV6g/logo-bri.png'  
-  }
+    icon: 'https://upload.wikimedia.org/wikipedia/commons/2/2e/BRI_2020.svg'  
+    }
 ];
 
 export const regions = ['Semua Region', 'Asia', 'Amerika', 'Oseania', 'Eropa', 'Afrika'];
